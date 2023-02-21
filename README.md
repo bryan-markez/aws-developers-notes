@@ -1,4 +1,5 @@
 # AWS Developer Associate Certification Notes
+This section is work in progress.
 
 ## Organization 
 
