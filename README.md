@@ -13,8 +13,8 @@ Services:
 [x] IAM (02-21-23)  
 [x] EC2 (02-21-23)  
 [x] Load Balancers (02-21-23)  
-[] RDS  
-[] Route 53  
+[X] RDS (02-21-23)  
+[X] Route 53 (02-22-23)  
 [x] VPC (02-21-23)  
 [] S3  
 [] CloudFront  
